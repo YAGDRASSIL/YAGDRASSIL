@@ -1,0 +1,5 @@
+x=float(input())
+y=int(x*1)
+z=float(x-y)
+z=round(z,2)
+print(z)
