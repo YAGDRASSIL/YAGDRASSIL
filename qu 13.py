@@ -1,0 +1,1 @@
+print(int(input('L>'))//int(input('x>')))
